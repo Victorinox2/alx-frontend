@@ -4,7 +4,9 @@ Front-end
 
 Concepts
 For this project, we expect you to look at this concept:
+
 HTML - elements of a web page
+
 
 Welcome!
 Welcome to the Web Stack specialization. The 3 first projects will give you all basics of the Web development: HTML, CSS and Developer tools.
@@ -48,167 +50,7 @@ Wireframe of Techium project
 
 
 Quiz questions
-Great! You've completed the quiz successfully! Keep going! (Hide quiz)
-Question #0
-Which tag should we use to embed another website?
-
-
-<div>
-
-
-<code>
-
-
-<a>
-
-
-<iframe>
-
-
-<p>
-
-Question #1
-Which tag should we use to draw an horizontal line? (usually used to separate topics in a paragraph)
-
-
-<line>
-
-
-<br>
-
-
-<break>
-
-
-<hr>
-
-Question #2
-Which tag should we use to create an hyperlink?
-
-
-<link>
-
-
-<a>
-
-
-<to>
-
-
-<p>
-
-
-<div>
-
-Question #3
-Which tag should we use to embed an image?
-
-
-<img>
-
-
-<iframe>
-
-
-<div>
-
-
-<caption>
-
-Question #4
-Which tag should we use to change the font weight of a text?
-Please select all correct answers
-
-
-<bold>
-
-
-<h1>
-
-
-<i>
-
-
-<strong>
-
-
-<b>
-
-
-<em>
-
-Question #5
-Which tag should we use to group elements in an unordered list?
-
-
-<list>
-
-
-<li>
-
-
-<ol>
-
-
-<unordered list>
-
-
-<ul>
-
-
-<table>
-
-Question #6
-Which tag should we use to change the browser tab text?
-
-
-<head>
-
-
-<title>
-
-
-<tab>
-
-
-<browser>
-
-Question #7
-How many levels are available in HTML5 for section headings?
-
-
-10
-
-
-1
-
-
-4
-
-
-8
-
-
-2
-
-
-6
-
-Question #8
-Which information can we find in the tag head? Please select all correct answers
-
-
-metadata
-
-
-navigation
-
-
-link to Twitter
-
-
-link to stylesheets
-
+Great! You've completed the quiz successfully! Keep going! (Show quiz)
 Tasks
 0. Create your first webpage
 mandatory
@@ -1181,3 +1023,4 @@ GitHub repository: alx-frontend
 Directory: 0x00-html_advanced
 File: styleguide.html
   
+Copyright © 2024 ALX, All rights reserved.
